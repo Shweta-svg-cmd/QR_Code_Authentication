@@ -17,18 +17,25 @@ Support Vector Machine (SVM) – Lower accuracy due to misclassification of Firs
 
 🛠️ Technologies Used
 ✅ Python – NumPy, Pandas, Scikit-Learn, TensorFlow
+
 ✅ Data Visualization – Matplotlib, Seaborn
+
 ✅ Machine Learning & Deep Learning – SVM, RF, MLP, CNN
 
 📈 Key Findings & Next Steps
 ✔️ CNN outperformed all models, making it the best choice for classification.
+
 ✔️ MLP performed exceptionally well, with zero misclassifications.
+
 ✔️ Random Forest had minor errors but remained a strong contender.
+
 ✔️ SVM struggled with class separation, requiring further tuning.
 
 🚀 Future Improvements:
 🔸 Optimize CNN for real-time deployment
+
 🔸 Improve feature selection for RF and SVM
+
 🔸 Develop an API for seamless classification integration
 
 🔗 Check out the repo for code, results, and insights!
