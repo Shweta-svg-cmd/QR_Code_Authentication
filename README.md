@@ -6,9 +6,13 @@ Developed a machine learning model to classify QR codes as original (first print
 🔹 Model Training & Evaluation – Implemented and compared four classifiers:
 
 Convolutional Neural Network (CNN) – Achieved 100% accuracy with perfect classification.
+
 Multi-Layer Perceptron (MLP) – Near-perfect performance, 100% precision and recall.
+
 Random Forest (RF) – Slight misclassification but still robust.
+
 Support Vector Machine (SVM) – Lower accuracy due to misclassification of First Print samples.
+
 🔹 Performance Analysis – Used confusion matrices, accuracy scores, and error rates to assess model effectiveness.
 
 🛠️ Technologies Used
